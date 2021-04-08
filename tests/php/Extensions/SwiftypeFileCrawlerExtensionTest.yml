@@ -1,0 +1,9 @@
+Ichaber\SSSwiftype\Tests\Fake\SwiftypeFile:
+  file_pdf:
+    Name: dummy.pdf
+    FileFilename: dummy.pdf
+    Title: Dummy pdf
+  file_jpg:
+    Name: success-kid.jpg
+    FileFilename: success-kid.jpg
+    Title: Success kid jpg image
